@@ -1,0 +1,6 @@
+{
+  "name": "NOVAFIT — Modern Fitness & Wellness Studio",
+  "description": "Transform Your Body, Elevate Your Mind. Premium modern fitness and wellness studio offering strength training, personal coaching, group classes, yoga, and nutrition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
